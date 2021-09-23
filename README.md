@@ -1,2 +1,2 @@
 # ccauder-png.github.io
-[foaf](./foaf.rdf)
+[foaf](foaf.rdf)
