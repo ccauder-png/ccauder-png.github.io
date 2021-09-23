@@ -1,11 +1,13 @@
-<foaf:Group>
- <foaf:name>ILRT staff</foaf:name>
- <foaf:member>
-  <foaf:Person>
-   <foaf:name>Martin Poulter</foaf:name>
-   <foaf:homepage rdf:resource="http://www.ilrt.bris.ac.uk/aboutus/staff/staffprofile/?
-search=plmlp"/>
-   <foaf:workplaceHomepage rdf:resource="http://www.ilrt.bris.ac.uk/"/>
-  </foaf:Person>
- </foaf:member>
-</foaf:Group>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+
+         xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+ <foaf:Person>
+
+   <foaf:name>Peter Parker</foaf:name>
+
+   <foaf:mbox rdf:resource="mailto:peter.parker@dailybugle.com"/>
+
+ </foaf:Person>
+
+</rdf:RDF>
