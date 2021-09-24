@@ -6,7 +6,7 @@
 
  <foaf:Person>
 
-   <foaf:url rdf:resource="https://ccauder-png.github.io/"/>
+   <foaf:url rdf:resource="https://ccauder-png.github.io/">https://ccauder-png.github.io</foaf:url>
 
  </foaf:Person>
 
