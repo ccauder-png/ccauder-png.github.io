@@ -4,7 +4,7 @@
  <xsl:template match="/">
     <html>
     	<body>
-      	<h1><xsl:value-of select="foaf:name"/></h1>
+      	<h1><xsl:value-of select="foaf:url"/></h1>
     	</body>
     </html>
 </xsl:template>

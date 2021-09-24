@@ -3,12 +3,10 @@
 	
          xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
- <foaf:Person>
+ <foaf:Link>
 
-   <foaf:name>Peter Parker</foaf:name>
+   <foaf:url rdf:resource="https://ccauder-png.github.io/"/>
 
-   <foaf:mbox rdf:resource="mailto:peter.parker@dailybugle.com"/>
-
- </foaf:Person>
+ </foaf:Link>
 
 </rdf:RDF>
