@@ -12,9 +12,6 @@
   doctype-system="http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" />
  <xsl:template match="/rdf:RDF/foaf:Person">
     <html>
-    	<head>
-    		<title>Exo2</title>  
-    	</head>
     	<body>
       	<h1>Test réussi => <xsl:value-of select="foaf:url"/></h1>
     	</body>
