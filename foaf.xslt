@@ -2,7 +2,9 @@
 <xsl:stylesheet
 	version="1.0" 
   xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  >
 <xsl:output
 	encoding="UTF-8"
   indent="yes" 
