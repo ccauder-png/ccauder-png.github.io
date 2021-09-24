@@ -16,7 +16,7 @@
     		<title>Exo2</title>  
     	</head>
     	<body>
-      	<h1>Test réussi => <xsl:value-of select="foaf:url"/></h1>
+      	<h1><xsl:value-of select="foaf:url"/></h1>
     	</body>
     </html>
 </xsl:template>
