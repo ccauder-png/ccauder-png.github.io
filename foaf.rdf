@@ -4,10 +4,10 @@
 	
          xmlns:foaf="http://xmlns.com/foaf/0.1/">
 
- <foaf:Link>
+ <foaf:Person>
 
    <foaf:url rdf:resource="https://ccauder-png.github.io/"/>
 
- </foaf:Link>
+ </foaf:Person>
 
 </rdf:RDF>
